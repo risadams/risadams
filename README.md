@@ -4,7 +4,7 @@ My name is Ris, and I am a full-stack developer specializing in SQL Server and C
 
 ## Status
 
-- I am currently working full time and am not open for changing employers.
+- I am currently working full time and am not open to new offers at this time.
 - I am open to part-time contracts, if remote
 
 ## About Me
