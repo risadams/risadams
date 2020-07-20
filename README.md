@@ -14,6 +14,8 @@
 
  C# / HTML / CSS / Javascript / T-SQL
 
+### Get to know me
+
 - 🔭 I’m currently working on [ArchiTECH™](https://www.builtforyou.com)
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
