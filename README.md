@@ -5,6 +5,8 @@
 
 ![Full Stack Developer and more](https://github.com/risadams/risadams/blob/master/img/Design%204.jpg?raw=true)
 
+### Status
+
 - Currently working full time and not accepting new offers for primary employment.
 - I am willing to consult or collaborate (remotely) on projects in a part-time capacity
 
