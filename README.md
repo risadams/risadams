@@ -3,7 +3,7 @@
 
 ## Full Stack Developer and more
 
-![Full Stack Developer and more](https://github.com/risadams/risadams/blob/master/img/Design%204.jpg?raw=true)
+<!-- ![Full Stack Developer and more](https://github.com/risadams/risadams/blob/master/img/Design%204.jpg?raw=true) -->
 
 ### Status
 
