@@ -14,13 +14,9 @@
 - Currently working full time and not accepting new offers for primary employment.
 - I am willing to consult or collaborate (remotely) on projects in a part-time capacity
 
-<details>
-    <summary>
-    🎧 Spotify  - Now Playing
-    </summary>
+### 🎧 Spotify  - Now Playing
 
-[<img src="https://novatorem.risadams.vercel.app/api/spotify" alt="Ris's Spotify Playing" width="850" />](https://open.spotify.com/user/pdwv2oq3mmga1hednkj7ko9h9)
-</details>
+[<img src="https://novatorem.risadams.vercel.app/api/spotify" alt="Ris's Spotify Playing" width="650" />](https://open.spotify.com/user/pdwv2oq3mmga1hednkj7ko9h9)
 
 ### Skills
 
