@@ -60,7 +60,7 @@
 
 ### 🎧 Spotify  - Now Playing
 
-[<img src="https://novatorem.risadams.vercel.app/api/spotify" alt="Ris's Spotify Playing" width="650" />](https://open.spotify.com/user/pdwv2oq3mmga1hednkj7ko9h9)
+[<img src="https://novatorem.risadams.vercel.app/api/spotify" alt="Ris's Spotify Playing" width="480" />](https://open.spotify.com/user/pdwv2oq3mmga1hednkj7ko9h9)
 
 <details>
   <summary>⚡ Github Stats</summary>
