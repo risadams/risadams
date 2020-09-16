@@ -58,13 +58,13 @@
 <br />
 <br />
 
-### 🎧 Spotify  - Now Playing
+### 🎧 Spotify 
 
 [<img src="https://novatorem.risadams.vercel.app/api/spotify" alt="Ris's Spotify Playing" width="480" />](https://open.spotify.com/user/pdwv2oq3mmga1hednkj7ko9h9)
 
-<details>
-  <summary>⚡ Github Stats</summary>
 
-  <img align="left" alt="Ris's Github Stats" src="https://github-readme-stats-seven-sage.vercel.app/api?username=risadams&show_icons=true&hide_border=true" />
+### ⚡ Github Stats
 
-</details>
+<img align="left" alt="Ris's Github Stats" src="https://github-readme-stats-seven-sage.vercel.app/api?username=risadams&show_icons=true&hide_border=true" />
+
+
