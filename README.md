@@ -6,10 +6,6 @@
 [![Chat](https://img.shields.io/static/v1?label=Keybase&message=Chat&color=yellow)](https://keybase.io/risadams)
 [![PGP](https://badgen.net/keybase/pgp/risadams)](https://keybase.io/risadams)
 
-## Developer; Father; Social Activist; Idea Dreamer
-
-<!-- ![Full Stack Developer and more](https://github.com/risadams/risadams/blob/master/img/Design%204.jpg?raw=true) -->
-
 ### Status
 
 - Currently working full time and not accepting new offers for primary employment.
