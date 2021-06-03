@@ -6,6 +6,11 @@
 [![Chat](https://img.shields.io/static/v1?label=Keybase&message=Chat&color=yellow)](https://keybase.io/risadams)
 [![PGP](https://badgen.net/keybase/pgp/risadams)](https://keybase.io/risadams)
 
+### Sponsorship
+
+[💖 Sponsorships](https://github.com/sponsors/risadams) 
+Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
+
 ### Status
 
 - Currently working full time and not accepting new offers for primary employment.
