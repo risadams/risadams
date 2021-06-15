@@ -23,4 +23,4 @@ Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: He/One
+- 😄 Pronouns: He/Him
