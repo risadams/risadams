@@ -14,12 +14,13 @@ Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
 ### Status
 
 - Currently working full time and not accepting new offers for primary employment.
-- I am willing to consult or collaborate (remotely) on projects in a part-time capacity
+- I am willing to consult or collaborate (remotely) on projects in a part-time capacity, or provide mentorship/training
 
 ### Get to know me
 
 - 🔭 I’m currently working on [ArchiTECH™](https://www.builtforyou.com) and [Selectize](https://selectize.dev)
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate with other content creators
+- 🎓 I’m available for mentorship and coaching
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: He/Him/They/Them
+- 😄 Pronouns: He/One
