@@ -6,6 +6,9 @@
 [![Chat](https://img.shields.io/static/v1?label=Keybase&message=Chat&color=yellow)](https://keybase.io/risadams)
 [![PGP](https://badgen.net/keybase/pgp/risadams)](https://keybase.io/risadams)
 
+ 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/risadams/book-session.svg)](https://www.codementor.io/@risadams?refer=badge)
+
 ### Sponsorship
 
 [💖 Sponsorships](https://github.com/sponsors/risadams) 
