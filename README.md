@@ -21,9 +21,9 @@ Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
 
 ### Get to know me
 
-- 🔭 I’m currently working on [ArchiTECH™](https://www.builtforyou.com) and [Selectize](https://selectize.dev)
-- 🌱 I’m currently learning Everything
+- 🔭 I’m currently working on [ArchiTECH™](https://www.builtforyou.com), [Selectize](https://selectize.dev) [Ally-Cat](http://ally-cat.risadams.com/), and [Big Black Page](https://bigblackpage.com/)
+- 🌱 I’m currently learning GitHub Actions, and JamStack APIs
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Increase [Sponsorhips](https://github.com/sponsors/risadams?o=esb) and learn TypeScript
 - 😄 Pronouns: He/Him
