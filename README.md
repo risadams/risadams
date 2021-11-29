@@ -21,7 +21,7 @@ Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
 
 ### Get to know me
 
-- 🔭 I’m currently working on [ArchiTECH™](https://www.builtforyou.com), [Selectize](https://selectize.dev) [Ally-Cat](http://ally-cat.risadams.com/), and [Big Black Page](https://bigblackpage.com/)
+- 🔭 I’m currently working on [ArchiTECH™](https://www.builtforyou.com), [Selectize](https://selectize.dev), [Ally-Cat](http://ally-cat.risadams.com/), and [Big Black Page](https://bigblackpage.com/)
 - 🌱 I’m currently learning GitHub Actions, and JamStack APIs
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
