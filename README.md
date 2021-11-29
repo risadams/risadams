@@ -25,5 +25,5 @@ Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
 - 🌱 I’m currently learning GitHub Actions, and JamStack APIs
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
-- 🥅 2022 Goals: Increase [Sponsorhips](https://github.com/sponsors/risadams?o=esb) and learn TypeScript
+- 🥅 2022 Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb) and learn TypeScript
 - 😄 Pronouns: He/Him
