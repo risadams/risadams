@@ -10,7 +10,7 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&font=Poppins&size=22&multiline=true&height=90&color=F22A85&lines=Changing+the+world+with+software;Always+learning,+Always+Adapting;Unapologetically+Awesome)](https://git.io/typing-svg)
-[![Ris's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=risadams&theme=rogue&line=F22A85)](https://github.com/risadams/github-readme-activity-graph)
+[![Ris's GitHub Activity Graph](https://ris-gh-activity-graph.herokuapp.com/graph?username=risadams&theme=rogue&line=F22A85)](https://github.com/risadams/github-readme-activity-graph)
 
 ## Sponsorship
 
