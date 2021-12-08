@@ -1,8 +1,3 @@
-<hr style='height:0.5em;background-image: -webkit-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);
-    background-image: -moz-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);
-    background-image: -ms-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);
-    background-image: -o-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);' />
-
 # Hi there 👋, my name is Ris
 
 [![Website](https://img.shields.io/website?label=risadams.com&style=for-the-badge&url=https%3A%2F%2Frisadams.com)](https://risadams.com)
@@ -12,12 +7,9 @@
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/risadams/book-session.svg)](https://www.codementor.io/@risadams?refer=badge)
 
-<hr style='background-image: -webkit-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);
-    background-image: -moz-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);
-    background-image: -ms-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);
-    background-image: -o-linear-gradient(left, #f22a85f0, rgba(137, 11, 138, 0.5), rgba(27, 123, 187, 0.5), rgba(47, 195, 44, 0.5), rgba(253, 201, 1, 0.5), rgba(255, 91, 2, 0.5), #ccc 45%, #ccc 55%, rgba(255, 91, 2, 0.5), rgba(253, 201, 1, 0.5), rgba(47, 195, 44, 0.5), rgba(27, 123, 187, 0.5), rgba(137, 11, 138, 0.5), #f22a85f0);' />
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&font=Poppins&size=22&multiline=true&height=90&color=F22A85&lines=Changing+the+world+with+software;Always+learning,+Always+Adapting;Unapologetically+Awesome)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&font=Poppins&size=22&multiline=true&height=90&color=F22A85&lines=Changing+the+world+with+software;Always+learning,+Always+Adapting;Unapologetically+Awesome)
 ![Ris's GitHub Activity Graph](https://ris-gh-activity-graph.herokuapp.com/graph?username=risadams&theme=rogue&line=F22A85)
 
 ## Sponsorship
@@ -33,6 +25,8 @@ Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
 ![Ris's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risadams&theme=radical)
 
 ## Get to know me
+
+Read more about me at my personal website: [risadams.com](https://risadams.com).
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on:
