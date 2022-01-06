@@ -34,10 +34,10 @@ Read more about me at my personal website: [risadams.com](https://risadams.com).
   - [Selectize](https://selectize.dev)
   - [Ally-Cat](http://ally-cat.risadams.com/)
   - [Big Black Page](https://bigblackpage.com/)
-- 🌱 I’m currently learning GitHub Actions, and JamStack APIs
+- 🌱 I’m currently learning Typescript and Tailwind
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
-- 🥅 2022 Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb) and learn TypeScript
+- 🥅 2022 Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb)
 - Professional memberships:
   - [OWASP Foundation](https://owasp.org/membership/)
   - [ACM](https://www.acm.org/membership)
