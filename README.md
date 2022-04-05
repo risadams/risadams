@@ -28,13 +28,8 @@ Buy me a cofee, or schedule a one-on-one consulting or mentorship session.
 
 Read more about me at my personal website: [risadams.com](https://risadams.com).
 
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on:
-  - [ArchiTECH™](https://www.builtforyou.com)
-  - [Selectize](https://selectize.dev)
-  - [Ally-Cat](http://ally-cat.risadams.com/)
-  - [Big Black Page](https://bigblackpage.com/)
-- 🌱 I’m currently learning Typescript and Tailwind
+- 😄 Pronouns: (He/Him)*
+- 🌱 I’m currently learning Typescript, Tailwind, React, and Go
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
 - 🥅 2022 Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb)
