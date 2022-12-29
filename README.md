@@ -21,10 +21,13 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 
 ## Status
 
+![Ris's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risadams&theme=radical)
+
 - Currently working full-time and not accepting new offers for primary employment.
 - I am willing to consult or collaborate (remotely) on projects in a part-time capacity or provide mentorship/training
 
-![Ris's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risadams&theme=radical)
+
+[![An image of @risadams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risadams)](https://holopin.io/@risadams)
 
 ![Decorative line:](https://raw.githubusercontent.com/risadams/risadams/master/img/hr.png)
 
