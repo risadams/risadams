@@ -29,7 +29,7 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 
 [![An image of @risadams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risadams)](https://holopin.io/@risadams)
 
-## Latest Blog Posts
+<!-- ## Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
