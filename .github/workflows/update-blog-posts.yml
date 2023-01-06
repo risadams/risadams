@@ -12,7 +12,8 @@ jobs:
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          # Replace this URL with your RSS feed URL/s
-         feed_list: "https://risadams.com/feed.xml"
+         # feed_list: "https://risadams.com/feed.xml"
+         feed_lst: "https://hachyderm.io/@risadams.rss"
          # Optional
          max_post_count: 5
          template: "- `$date` | [$title]($url)  $newline"
