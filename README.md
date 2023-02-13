@@ -26,9 +26,6 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 - Currently working full-time and not accepting new offers for primary employment.
 - I am willing to consult or collaborate (remotely) on projects in a part-time capacity or provide mentorship/training
 
-
-[![An image of @risadams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/risadams)](https://holopin.io/@risadams)
-
 <!-- ## Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
