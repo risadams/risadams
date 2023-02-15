@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ris <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
 
-[![Website](https://img.shields.io/website?label=risadams.com&style=for-the-badge&url=https%3A%2F%2Frisadams.com)](https://risadams.com) [![Mastodon Follow](https://img.shields.io/mastodon/follow/109568681193940899?domain=https%3A%2f%2fhachyderm.io&color=1DA1F2&logo=mastodon&style=for-the-badge)](https://twitter.com/risadams) [![Linkedin: risadams](https://img.shields.io/badge/-risadams-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risadams/)](https://www.linkedin.com/in/risadams/) ![GitHub followers](https://img.shields.io/github/followers/risadams?label=Github%20Followers&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=risadams.com&style=for-the-badge&url=https%3A%2F%2Frisadams.com)](https://risadams.com) [![Linkedin: risadams](https://img.shields.io/badge/-risadams-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risadams/)](https://www.linkedin.com/in/risadams/) ![GitHub followers](https://img.shields.io/github/followers/risadams?label=Github%20Followers&style=for-the-badge)
 
 [![PGP](https://badgen.net/keybase/pgp/risadams)](https://keybase.io/risadams) [![Contact me on Codementor](https://www.codementor.io/m-badges/risadams/book-session.svg)](https://www.codementor.io/@risadams?refer=badge)
 
