@@ -1,4 +1,3 @@
-![Header: risadams.com](https://raw.githubusercontent.com/risadams/risadams/master/img/cover.png)
 
 # Hi there, I'm Ris <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
 
