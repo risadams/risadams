@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=risadams.com&style=for-the-badge&url=https%3A%2F%2Frisadams.com)](https://risadams.com) [![Linkedin: risadams](https://img.shields.io/badge/-risadams-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risadams/)](https://www.linkedin.com/in/risadams/) ![GitHub followers](https://img.shields.io/github/followers/risadams?label=Github%20Followers&style=for-the-badge)
 
-[![PGP](https://badgen.net/keybase/pgp/risadams)](https://keybase.io/risadams) [![Contact me on Codementor](https://www.codementor.io/m-badges/risadams/book-session.svg)](https://www.codementor.io/@risadams?refer=badge)
+[![PGP](https://badgen.net/keybase/pgp/risadams)](https://keybase.io/risadams) 
 
 ![Decorative line:](https://raw.githubusercontent.com/risadams/risadams/master/img/hr.png)
 
