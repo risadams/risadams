@@ -20,8 +20,6 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 
 ## Status
 
-![Ris's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risadams&theme=radical)
-
 - Currently working full-time and not accepting new offers for primary employment.
 - I am willing to consult or collaborate (remotely) on projects in a part-time capacity or provide mentorship/training
 
@@ -40,7 +38,7 @@ Read more about me at my website: [risadams.com](https://risadams.com).
 - 🌱 I’m currently learning Typescript, Ansible, Helm, and OSINT techniques
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
-- 🥅 2023 Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb)
+- 🥅 2024 Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb)
 - Professional memberships:
   - [OWASP Foundation](https://owasp.org/membership/)
   - [ACM](https://www.acm.org/membership)
