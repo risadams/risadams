@@ -7,10 +7,6 @@
 
 ![Decorative line:](https://raw.githubusercontent.com/risadams/risadams/master/img/hr.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&font=Poppins&size=22&multiline=true&height=90&color=F22A85&lines=Changing+the+world+with+software;Always+learning,+Always+Adapting;Unapologetically+Awesome)
-
-![Decorative line:](https://raw.githubusercontent.com/risadams/risadams/master/img/hr.png)
-
 ## Sponsorships
 
 [💖 Sponsorships](https://github.com/sponsors/risadams)
