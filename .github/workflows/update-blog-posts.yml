@@ -1,22 +1,22 @@
-name: Latest posts workflow
+name: Latest blog posts workflow
 on:
- schedule:
-   - cron: '0 * * * *' 
- workflow_dispatch: 
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
 jobs:
- update-readme-with-blog:
-   name: Update this repo's README with latest blog posts
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         # Replace this URL with your RSS feed URL/s
-         feed_list: "https://risadams.com/feed.xml"
-         # feed_list: "https://hachyderm.io/@risadams.rss"
-         # Optional
-         max_post_count: 5
-         template: "- `$date` | [$title]($url)  $newline"
-         date_format: yyyy-mm-dd
-         tag_post_pre_newline: true
-         disable_item_validation: true
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://risadams.com/blog/rss.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "Updated with the latest blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
