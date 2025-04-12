@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting the Perfect Sprint Retrospective](https://risadams.com/blog/2025/04/11/2025/04/planning-a-retro)
 - [A Val Farewell: How Val Kilmer Shaped My World](https://risadams.com/blog/2025/04/02/2025/04/a-val-farewell)
 - [Essential Questions Every New Scrum Master Should Ask](https://risadams.com/blog/2025/04/01/2025/04/new-sm-speed-tips)
 - [Git Merge vs Git Rebase: Understanding the Perfect Integration Strategy](https://risadams.com/blog/2025/03/25/2025/03/git-merge-vs-rebase)
 - [Shadows -- Remembering Carl Dean](https://risadams.com/blog/2025/03/18/2025/03/shadows)
-- [Energizing Your Sprint Retrospectives: A Guide to Meaningful Team Reflection](https://risadams.com/blog/2025/02/18/2025/02/sprint-retros)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
