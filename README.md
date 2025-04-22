@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Autism &quot;Epidemic&quot; Myth: Why We&#39;re Just Getting Better at Recognition](https://risadams.com/blog/2025/04/21/2025/04/autism-epidemic)
 - [Git Notes &amp; Trailers: The Hidden Features You Should Be Using](https://risadams.com/blog/2025/04/17/2025/04/git-notes)
 - [Crafting the Perfect Sprint Retrospective](https://risadams.com/blog/2025/04/11/2025/04/planning-a-retro)
 - [A Val Farewell: How Val Kilmer Shaped My World](https://risadams.com/blog/2025/04/02/2025/04/a-val-farewell)
 - [Essential Questions Every New Scrum Master Should Ask](https://risadams.com/blog/2025/04/01/2025/04/new-sm-speed-tips)
-- [Git Merge vs Git Rebase: Understanding the Perfect Integration Strategy](https://risadams.com/blog/2025/03/25/2025/03/git-merge-vs-rebase)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
