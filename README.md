@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Project Release: Pride Flags](https://risadams.com/blog/2025/05/05/new-project-release-pride-flags)
 - [The Modern Office Playbook for Managing Job Stress](https://risadams.com/blog/2025/05/04/dealing-with-job-stress)
 - [Git commits as documentation](https://risadams.com/blog/2025/04/29/git-commits-as-documentation)
 - [Git Diff Deep Dive: Choosing the Right Algorithm for Your Workflow](https://risadams.com/blog/2025/04/24/git-diff)
 - [The Autism &quot;Epidemic&quot; Myth: Why We&#39;re Just Getting Better at Recognition](https://risadams.com/blog/2025/04/21/autism-epidemic)
-- [Git Notes &amp; Trailers: The Hidden Features You Should Be Using](https://risadams.com/blog/2025/04/17/git-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
