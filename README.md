@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Worktrees: Multiple Branches, Zero Context Switching](https://risadams.com/blog/2025/05/30/git-worktrees)
 - [Walking Back with Git: HEAD^ vs HEAD~ Demystified](https://risadams.com/blog/2025/05/29/walking-back-with-git)
 - [The Evolution of Scrum Masters: From Ceremony Runners to Strategic Enablers](https://risadams.com/blog/2025/05/27/the-future-of-scrum-masters)
 - [New Project Release: Pride Flags](https://risadams.com/blog/2025/05/05/new-project-release-pride-flags)
 - [The Modern Office Playbook for Managing Job Stress](https://risadams.com/blog/2025/05/04/dealing-with-job-stress)
-- [Git commits as documentation](https://risadams.com/blog/2025/04/29/git-commits-as-documentation)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
