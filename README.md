@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Traits of a great Scrum Master: curiosity](https://risadams.com/blog/2025/07/09/traits-of-a-great-scrum-master-curiosity)
 - [Scrum, reduce constraints without adding more people](https://risadams.com/blog/2025/07/01/scrum-reduce-constraints-without-adding-more-people)
 - [Effective Listening for Scrum Masters](https://risadams.com/blog/2025/06/23/effective-listening-for-scrum-masters)
 - [The Neurodivergent Developer&#39;s Guide to Thriving in Agile Ceremonies](https://risadams.com/blog/2025/06/17/the-neurodivergent-developers-guide-to-agile-ceremonies)
 - [What&#39;s in a .git? A Deep Dive into Git&#39;s Hidden Engine](https://risadams.com/blog/2025/06/03/whats-in-a-git)
-- [Git Worktrees: Multiple Branches, Zero Context Switching](https://risadams.com/blog/2025/05/30/git-worktrees)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
