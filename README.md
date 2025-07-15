@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Courage as a Scrum Value: The Catalyst for Real Transparency](https://risadams.com/blog/2025/07/14/courage-as-a-scrum-value)
 - [Surprise Driven Development](https://risadams.com/blog/2025/07/10/surprise-driven-development)
 - [Traits of a great Scrum Master: curiosity](https://risadams.com/blog/2025/07/09/traits-of-a-great-scrum-master-curiosity)
 - [Scrum, reduce constraints without adding more people](https://risadams.com/blog/2025/07/01/scrum-reduce-constraints-without-adding-more-people)
 - [Effective Listening for Scrum Masters](https://risadams.com/blog/2025/06/23/effective-listening-for-scrum-masters)
-- [The Neurodivergent Developer&#39;s Guide to Thriving in Agile Ceremonies](https://risadams.com/blog/2025/06/17/the-neurodivergent-developers-guide-to-agile-ceremonies)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
