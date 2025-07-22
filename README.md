@@ -39,3 +39,5 @@ Read more about me at my website: [risadams.com](https://risadams.com).
 - Professional memberships:
   - [OWASP Foundation](https://owasp.org/membership/)
   - [ACM](https://www.acm.org/membership)
+  - [Agile Mentors](https://www.agilementors.com/)
+  - [Mentra](https://www.mentra.com/)
