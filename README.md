@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [working with git: archive](https://risadams.com/blog/2025/08/05/working-with-git-archive)
+- [The Scrum Master&#39;s Paradox: Leading Without Authority While Battling Self-Doubt](https://risadams.com/blog/2025/08/04/the-scrum-masters-paradox-leading-without-authority-while-battling-self-doubt)
 - [Courage as a Scrum Value: The Catalyst for Real Transparency](https://risadams.com/blog/2025/07/14/courage-as-a-scrum-value)
 - [Surprise Driven Development](https://risadams.com/blog/2025/07/10/surprise-driven-development)
 - [Traits of a great Scrum Master: curiosity](https://risadams.com/blog/2025/07/09/traits-of-a-great-scrum-master-curiosity)
-- [Scrum, reduce constraints without adding more people](https://risadams.com/blog/2025/07/01/scrum-reduce-constraints-without-adding-more-people)
-- [Effective Listening for Scrum Masters](https://risadams.com/blog/2025/06/23/effective-listening-for-scrum-masters)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
