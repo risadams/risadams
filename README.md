@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 14 Personality Types Every Scrum Master Encounters &lpar;And How to Work With Each One&rpar;](https://risadams.com/blog/2025/09/07/personaity-typs-on-an-agile-team)
 - [Scrumgeons &amp; Dragons: Why Your Development Team Is Just a Really Organized D&amp;D Party](https://risadams.com/blog/2025/08/28/scrumgeons-dragons)
 - [When Team Members Check Out: A Scrum Master&#39;s Guide to Re-engagement](https://risadams.com/blog/2025/08/19/scrum-mastershow-to-deal-with-a-disengaged-team-member)
 - [working with git: archive](https://risadams.com/blog/2025/08/05/working-with-git-archive)
 - [The Scrum Master&#39;s Paradox: Leading Without Authority While Battling Self-Doubt](https://risadams.com/blog/2025/08/04/the-scrum-masters-paradox-leading-without-authority-while-battling-self-doubt)
-- [Courage as a Scrum Value: The Catalyst for Real Transparency](https://risadams.com/blog/2025/07/14/courage-as-a-scrum-value)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
