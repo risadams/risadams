@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ris <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
+# Hi there, I'm Ris
 
 [![Website](https://img.shields.io/website?label=risadams.com&style=for-the-badge&url=https%3A%2F%2Frisadams.com)](https://risadams.com) [![Linkedin: risadams](https://img.shields.io/badge/-risadams-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risadams/)](https://www.linkedin.com/in/risadams/) ![GitHub followers](https://img.shields.io/github/followers/risadams?label=Github%20Followers&style=for-the-badge)
 
@@ -32,10 +32,9 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 Read more about me at my website: [risadams.com](https://risadams.com).
 
 - 😄 Pronouns: (He/Him)*
-- 🌱 I’m currently learning Typescript, Ansible, Helm, and OSINT techniques
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I’m available for mentorship and coaching
-- 🥅 2025 Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb)
+- 🥅 Latest Goals: Increase [Sponsorships](https://github.com/sponsors/risadams?o=esb)
 - Professional memberships:
   - [OWASP Foundation](https://owasp.org/membership/)
   - [ACM](https://www.acm.org/membership)
