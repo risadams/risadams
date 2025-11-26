@@ -20,11 +20,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Ted Lasso taught me as a scrum master](https://risadams.com/blog/2025/11/25/what-ted-lasso-taught-me-as-a-scrum-master)
 - [Stop Managing Projects with Scrum; Start Managing Conversations](https://risadams.com/blog/2025/10/17/scrum-as-a-communication-framework)
 - [The Sprint Planning Boss Battle: Why Every Story Point Estimate Is a Dice Roll](https://risadams.com/blog/2025/09/24/the-sprint-planning-boss-battle-why-every-story-point-estimate-is-a-dice-roll)
 - [The 14 Personality Types Every Scrum Master Encounters &lpar;And How to Work With Each One&rpar;](https://risadams.com/blog/2025/09/07/personaity-typs-on-an-agile-team)
 - [Scrumgeons &amp; Dragons: Why Your Development Team Is Just a Really Organized D&amp;D Party](https://risadams.com/blog/2025/08/28/scrumgeons-dragons)
-- [When Team Members Check Out: A Scrum Master&#39;s Guide to Re-engagement](https://risadams.com/blog/2025/08/19/scrum-mastershow-to-deal-with-a-disengaged-team-member)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
