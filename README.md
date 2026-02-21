@@ -18,11 +18,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Resident Alien gets imposter syndrome right &lpar;and what your team can do about it&rpar;](https://risadams.com/blog/2026/02/11/resident-alien-belonging-imposter-syndrome)
 - [What Yellowjackets taught me about development teams &lpar;and why you should never work in survival mode&rpar;](https://risadams.com/blog/2026/01/09/what-yellowjackets-taught-me-about-development-teams)
 - [What Ted Lasso taught me as a scrum master](https://risadams.com/blog/2025/11/25/what-ted-lasso-taught-me-as-a-scrum-master)
 - [Stop Managing Projects with Scrum; Start Managing Conversations](https://risadams.com/blog/2025/10/17/scrum-as-a-communication-framework)
 - [The Sprint Planning Boss Battle: Why Every Story Point Estimate Is a Dice Roll](https://risadams.com/blog/2025/09/24/the-sprint-planning-boss-battle-why-every-story-point-estimate-is-a-dice-roll)
-- [The 14 Personality Types Every Scrum Master Encounters &lpar;And How to Work With Each One&rpar;](https://risadams.com/blog/2025/09/07/personaity-typs-on-an-agile-team)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
