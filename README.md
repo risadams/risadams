@@ -18,11 +18,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steel, Rivers, and Rewrites: What Pittsburgh Taught Me About Building Things That Last](https://risadams.com/blog/2026/04/26/what-pittsburgh-taught-me-about-building-things-that-last)
 - [Working With Your Brain, Not Against It: ADHD and Software Development](https://risadams.com/blog/2026/04/23/adhd-and-software-development)
 - [You knew the answer and you didn&#39;t say it](https://risadams.com/blog/2026/04/20/building-confidence-in-technical-discussions)
 - [Why Resident Alien gets imposter syndrome right &lpar;and what your team can do about it&rpar;](https://risadams.com/blog/2026/02/11/resident-alien-belonging-imposter-syndrome)
 - [What Yellowjackets taught me about development teams &lpar;and why you should never work in survival mode&rpar;](https://risadams.com/blog/2026/01/09/what-yellowjackets-taught-me-about-development-teams)
-- [What Ted Lasso taught me as a scrum master](https://risadams.com/blog/2025/11/25/what-ted-lasso-taught-me-as-a-scrum-master)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
