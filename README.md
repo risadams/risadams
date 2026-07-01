@@ -18,11 +18,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Velocity Didn&#39;t Fail. It Worked Too Well.](https://risadams.com/blog/2026/06/30/velocity-didnt-fail-it-worked-too-well)
 - [Staying Human, Using AI as a tool not a personality](https://risadams.com/blog/2026/06/29/staying-human-using-ai-as-a-tool-not-a-personality)
 - [Introducing &quot;Ink and Agency&quot; a skill pack for humans &lpar;and claude&rpar;](https://risadams.com/blog/2026/05/18/introducing-ink-and-agency-an-ai-skill-pack-for-humans-and-claude)
 - [Steel, Rivers, and Rewrites: What Pittsburgh Taught Me About Building Things That Last](https://risadams.com/blog/2026/04/26/what-pittsburgh-taught-me-about-building-things-that-last)
 - [Working With Your Brain, Not Against It: ADHD and Software Development](https://risadams.com/blog/2026/04/23/adhd-and-software-development)
-- [You knew the answer and you didn&#39;t say it](https://risadams.com/blog/2026/04/20/building-confidence-in-technical-discussions)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
