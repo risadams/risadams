@@ -18,11 +18,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a future without AI?](https://risadams.com/blog/2026/10/25/is-there-a-future-wihtout-ai)
 - [What Dolly Parton Taught Me, and What She Would Want Us to Do Now](https://risadams.com/blog/2026/08/25/what-dolly-parton-taught-me)
 - [The Accommodations Nobody Tells You to Ask For](https://risadams.com/blog/2026/08/11/accommodations-nobody-tells-you-to-ask-for)
 - [Scope Creep Is a Goal-Setting Failure](https://risadams.com/blog/2026/08/04/scope-creep-is-a-goal-setting-failure)
 - [Velocity Didn&#39;t Fail. It Worked Too Well.](https://risadams.com/blog/2026/06/30/velocity-didnt-fail-it-worked-too-well)
-- [Staying Human, Using AI as a tool not a personality](https://risadams.com/blog/2026/06/29/staying-human-using-ai-as-a-tool-not-a-personality)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
