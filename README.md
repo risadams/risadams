@@ -18,11 +18,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Git Revenge, and whether you should use it](https://risadams.com/blog/2026/11/05/introducing-git-revenge)
 - [The cost of maintaining open source](https://risadams.com/blog/2026/10/27/the-cost-of-maintaining-open-source)
 - [What Our Flag Means Death taught me about celebrating diversity](https://risadams.com/blog/2026/10/26/our-flag-means-death-diversity-self-identity)
 - [Is there a future without AI?](https://risadams.com/blog/2026/10/25/is-there-a-future-wihtout-ai)
 - [What Dolly Parton Taught Me, and What She Would Want Us to Do Now](https://risadams.com/blog/2026/08/25/what-dolly-parton-taught-me)
-- [The Accommodations Nobody Tells You to Ask For](https://risadams.com/blog/2026/08/11/accommodations-nobody-tells-you-to-ask-for)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
