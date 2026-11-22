@@ -18,11 +18,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prep your sprint review from the repository, not the board](https://risadams.com/blog/2026/11/21/sprint-review-from-git-history)
 - [A git client your security team has nothing to ask about](https://risadams.com/blog/2026/11/20/git-client-security-team-approves)
 - [Three of me in one git log: keeping identities apart with includeIf](https://risadams.com/blog/2026/11/19/per-client-git-identities)
 - [A free git client for private repos and self-hosted git](https://risadams.com/blog/2026/11/18/free-git-client-private-repos)
 - [Your giant repo is slow because nobody tuned git](https://risadams.com/blog/2026/11/17/large-repo-git-tuning)
-- [Introducing Git Revenge, and whether you should use it](https://risadams.com/blog/2026/11/05/introducing-git-revenge)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
