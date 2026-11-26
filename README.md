@@ -18,11 +18,11 @@ Buy me a coffee? Or schedule a one-on-one consulting or mentorship session.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git for designers and writers, without the terminal](https://risadams.com/blog/2026/11/25/git-for-designers-and-writers)
 - [Notebooks, datasets and API keys: making git behave for data work](https://risadams.com/blog/2026/11/24/notebooks-data-and-secrets-in-git)
 - [A git GUI for people who live in the terminal](https://risadams.com/blog/2026/11/23/git-gui-for-terminal-people)
 - [Prep your sprint review from the repository, not the board](https://risadams.com/blog/2026/11/21/sprint-review-from-git-history)
 - [A git client your security team has nothing to ask about](https://risadams.com/blog/2026/11/20/git-client-security-team-approves)
-- [Three of me in one git log: keeping identities apart with includeIf](https://risadams.com/blog/2026/11/19/per-client-git-identities)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Get to know me
